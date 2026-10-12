@@ -1,0 +1,2208 @@
+    {
+    "source": "https://www.rugbydatabase.co.uk",
+    "squads": "Players in the 2026 Nations Championship squad list for each team (men)",
+    "retrieved": "2026-10-12",
+    "notes": [
+        "caps = total Test caps shown on the player profile (any nation)",
+        "international_tries = Test tries for the listed team only",
+        "height_m, tackle_completion_pct and metres_made are not shown on the public profile pages and are null"
+    ],
+    "teams": [
+        {
+        "team": "New Zealand",
+        "players": [
+            {
+            "name": "Cortez Ratima",
+            "year_born": 2001,
+            "caps": 24,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tyrel Lomax",
+            "year_born": 1996,
+            "caps": 55,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ethan De Groot",
+            "year_born": 1998,
+            "caps": 46,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Codie Taylor",
+            "year_born": 1991,
+            "caps": 113,
+            "international_tries": 25,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Lord",
+            "year_born": 2001,
+            "caps": 18,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Luke Jacobson",
+            "year_born": 1997,
+            "caps": 30,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ardie Savea",
+            "year_born": 1993,
+            "caps": 112,
+            "international_tries": 35,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cameron Roigard",
+            "year_born": 2000,
+            "caps": 25,
+            "international_tries": 17,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ruben Love",
+            "year_born": 2001,
+            "caps": 11,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jordie Barrett",
+            "year_born": 1997,
+            "caps": 86,
+            "international_tries": 26,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Will Jordan",
+            "year_born": 1998,
+            "caps": 62,
+            "international_tries": 56,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Damian McKenzie",
+            "year_born": 1995,
+            "caps": 82,
+            "international_tries": 24,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tupou Vaa'i",
+            "year_born": 2000,
+            "caps": 52,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Billy Proctor",
+            "year_born": 1999,
+            "caps": 13,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Wallace Sititi",
+            "year_born": 2002,
+            "caps": 24,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Xavier Numia",
+            "year_born": 1998,
+            "caps": 5,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Asafo Aumua",
+            "year_born": 1997,
+            "caps": 27,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Fletcher Newell",
+            "year_born": 2000,
+            "caps": 42,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sam Darry",
+            "year_born": 2000,
+            "caps": 12,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Peter Lakai",
+            "year_born": 2003,
+            "caps": 15,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Caleb Clarke",
+            "year_born": 1999,
+            "caps": 35,
+            "international_tries": 16,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Quinn Tupaea",
+            "year_born": 1999,
+            "caps": 30,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Moorby",
+            "year_born": 1998,
+            "caps": 6,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Anton Lienert-Brown",
+            "year_born": 1995,
+            "caps": 94,
+            "international_tries": 17,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Anton Segner",
+            "year_born": 2001,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Samisoni Taukei'aho",
+            "year_born": 1997,
+            "caps": 45,
+            "international_tries": 14,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Leroy Carter",
+            "year_born": 1999,
+            "caps": 11,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Patrick Tuipulotu",
+            "year_born": 1993,
+            "caps": 60,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Fehi Fineanganofo",
+            "year_born": 2002,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jamie Hannah",
+            "year_born": 2002,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Pasilio Tosi",
+            "year_born": 1998,
+            "caps": 18,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "George Bower",
+            "year_born": 1992,
+            "caps": 30,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "Australia",
+        "players": [
+            {
+            "name": "Tom Wright",
+            "year_born": 1997,
+            "caps": 52,
+            "international_tries": 15,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tate McDermott",
+            "year_born": 1998,
+            "caps": 57,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "James Slipper",
+            "year_born": 1989,
+            "caps": 154,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Brandon Paenga-Amosa",
+            "year_born": 1995,
+            "caps": 32,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Angus Bell",
+            "year_born": 2000,
+            "caps": 59,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Allan Ala'alatoa",
+            "year_born": 1994,
+            "caps": 95,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jeremy Williams",
+            "year_born": 2000,
+            "caps": 34,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Canham",
+            "year_born": 2001,
+            "caps": 8,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Rob Valetini",
+            "year_born": 1998,
+            "caps": 70,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Fraser McReight",
+            "year_born": 1999,
+            "caps": 48,
+            "international_tries": 17,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Harry Wilson",
+            "year_born": 1999,
+            "caps": 44,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ryan Lonergan",
+            "year_born": 1998,
+            "caps": 14,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Len Ikitau",
+            "year_born": 1998,
+            "caps": 56,
+            "international_tries": 11,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Joseph-Aukuso Sua'ali'i",
+            "year_born": 2003,
+            "caps": 26,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Max Jorgensen",
+            "year_born": 2004,
+            "caps": 29,
+            "international_tries": 10,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ben Donaldson",
+            "year_born": 1999,
+            "caps": 27,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Lachlan Shaw",
+            "year_born": 2003,
+            "caps": 6,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Taniela Tupou",
+            "year_born": 1996,
+            "caps": 74,
+            "international_tries": 10,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Nasser",
+            "year_born": 1999,
+            "caps": 17,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Dylan Pietsch",
+            "year_born": 1998,
+            "caps": 11,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jock Campbell",
+            "year_born": 1995,
+            "caps": 6,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Filipo Daugunu",
+            "year_born": 1995,
+            "caps": 25,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Declan Meredith",
+            "year_born": 1999,
+            "caps": 4,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Billy Pollard",
+            "year_born": 2001,
+            "caps": 25,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Carlo Tizzano",
+            "year_born": 2000,
+            "caps": 17,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Harry Potter",
+            "year_born": 1997,
+            "caps": 17,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom Hooper",
+            "year_born": 2001,
+            "caps": 25,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Carter Gordon",
+            "year_born": 2001,
+            "caps": 13,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nick Champion de Crespigny",
+            "year_born": 1996,
+            "caps": 6,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Miles Amatosero",
+            "year_born": 2002,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Zane Nonggorr",
+            "year_born": 2001,
+            "caps": 20,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "South Africa",
+        "players": [
+            {
+            "name": "Ben-Jason Dixon",
+            "year_born": 1998,
+            "caps": 11,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jan-Hendrik Wessels",
+            "year_born": 2001,
+            "caps": 15,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Pieter-Steph du Toit",
+            "year_born": 1992,
+            "caps": 102,
+            "international_tries": 15,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Paul de Villiers",
+            "year_born": 2003,
+            "caps": 5,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jesse Kriel",
+            "year_born": 1994,
+            "caps": 93,
+            "international_tries": 25,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Damian Willemse",
+            "year_born": 1998,
+            "caps": 54,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Wilco Louw",
+            "year_born": 1994,
+            "caps": 36,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cobus Wiese",
+            "year_born": 1997,
+            "caps": 6,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cobus Reinach",
+            "year_born": 1990,
+            "caps": 57,
+            "international_tries": 20,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Marco van Staden",
+            "year_born": 1995,
+            "caps": 38,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Aphelele Fassi",
+            "year_born": 1998,
+            "caps": 19,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Zach Porthen",
+            "year_born": 2004,
+            "caps": 8,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Gerhard Steenekamp",
+            "year_born": 1997,
+            "caps": 23,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Malcolm Marx",
+            "year_born": 1994,
+            "caps": 94,
+            "international_tries": 28,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ruan Nortje",
+            "year_born": 1998,
+            "caps": 24,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jasper Wiese",
+            "year_born": 1995,
+            "caps": 50,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Grant Williams",
+            "year_born": 1996,
+            "caps": 31,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Manie Libbok",
+            "year_born": 1997,
+            "caps": 34,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kurt-Lee Arendse",
+            "year_born": 1996,
+            "caps": 35,
+            "international_tries": 27,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Damian de Allende",
+            "year_born": 1991,
+            "caps": 103,
+            "international_tries": 14,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Johan Grobbelaar",
+            "year_born": 1997,
+            "caps": 11,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Evan Roos",
+            "year_born": 2000,
+            "caps": 9,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Embrose Papier",
+            "year_born": 1997,
+            "caps": 8,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Canan Moodie",
+            "year_born": 2002,
+            "caps": 26,
+            "international_tries": 9,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Handre Pollard",
+            "year_born": 1994,
+            "caps": 88,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Andre Esterhuizen",
+            "year_born": 1994,
+            "caps": 36,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ethan Hooker",
+            "year_born": 2003,
+            "caps": 14,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Edwill van der Merwe",
+            "year_born": 1996,
+            "caps": 8,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Herschel Jantjies",
+            "year_born": 1996,
+            "caps": 26,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Andre-Hugo Venter",
+            "year_born": 2001,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Carlu Sadie",
+            "year_born": 1997,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ox Nche",
+            "year_born": 1995,
+            "caps": 53,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ruben van Heerden",
+            "year_born": 1997,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Vusi Moyo",
+            "year_born": 2006,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jaco Williams",
+            "year_born": 2005,
+            "caps": 1,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Thomas du Toit",
+            "year_born": 1995,
+            "caps": 37,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cameron Hanekom",
+            "year_born": 2002,
+            "caps": 6,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cheslin Kolbe",
+            "year_born": 1993,
+            "caps": 53,
+            "international_tries": 22,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Quan Horn",
+            "year_born": 2001,
+            "caps": 3,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Elrigh Louw",
+            "year_born": 1999,
+            "caps": 16,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Vincent Tshituka",
+            "year_born": 1998,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ntuthuko Mchunu",
+            "year_born": 1999,
+            "caps": 4,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Boan Venter",
+            "year_born": 1997,
+            "caps": 10,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "Ireland",
+        "players": [
+            {
+            "name": "Bundee Aki",
+            "year_born": 1990,
+            "caps": 76,
+            "international_tries": 18,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ciaran Frawley",
+            "year_born": 1997,
+            "caps": 15,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nick Timoney",
+            "year_born": 1995,
+            "caps": 14,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tadhg Beirne",
+            "year_born": 1992,
+            "caps": 78,
+            "international_tries": 12,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom Clarkson",
+            "year_born": 2000,
+            "caps": 16,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ronan Kelleher",
+            "year_born": 1998,
+            "caps": 54,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom O'Toole",
+            "year_born": 1998,
+            "caps": 24,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "James Ryan",
+            "year_born": 1996,
+            "caps": 85,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jack Conan",
+            "year_born": 1992,
+            "caps": 68,
+            "international_tries": 16,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Stuart McCloskey",
+            "year_born": 1992,
+            "caps": 31,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jimmy O'Brien",
+            "year_born": 1996,
+            "caps": 14,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sean Jansen",
+            "year_born": 1999,
+            "caps": 2,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Craig Casey",
+            "year_born": 1999,
+            "caps": 30,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jeremy Loughman",
+            "year_born": 1995,
+            "caps": 10,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Dan Sheehan",
+            "year_born": 1998,
+            "caps": 44,
+            "international_tries": 18,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tadhg Furlong",
+            "year_born": 1992,
+            "caps": 97,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Joe McCarthy",
+            "year_born": 2001,
+            "caps": 27,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh van der Flier",
+            "year_born": 1993,
+            "caps": 81,
+            "international_tries": 14,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jamison Gibson-Park",
+            "year_born": 1992,
+            "caps": 56,
+            "international_tries": 9,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sam Prendergast",
+            "year_born": 2003,
+            "caps": 17,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jamie Osborne",
+            "year_born": 2001,
+            "caps": 17,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Garry Ringrose",
+            "year_born": 1995,
+            "caps": 76,
+            "international_tries": 15,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Hugo Keenan",
+            "year_born": 1996,
+            "caps": 51,
+            "international_tries": 15,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom Stewart",
+            "year_born": 2001,
+            "caps": 6,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jacob Stockdale",
+            "year_born": 1996,
+            "caps": 43,
+            "international_tries": 20,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Robbie Henshaw",
+            "year_born": 1993,
+            "caps": 88,
+            "international_tries": 12,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Robert Baloucoune",
+            "year_born": 1997,
+            "caps": 9,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cian Prendergast",
+            "year_born": 2000,
+            "caps": 10,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Harry Byrne",
+            "year_born": 1999,
+            "caps": 5,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nathan Doak",
+            "year_born": 2001,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Bryn Ward",
+            "year_born": 2004,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Cormac Izuchukwu",
+            "year_born": 2000,
+            "caps": 5,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sam Illo",
+            "year_born": 2001,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Billy Bohan",
+            "year_born": 2005,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "Wales",
+        "players": [
+            {
+            "name": "Ellis Mee",
+            "year_born": 2003,
+            "caps": 11,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "James Botham",
+            "year_born": 1998,
+            "caps": 24,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ben Warren",
+            "year_born": 2000,
+            "caps": 3,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nicky Smith",
+            "year_born": 1994,
+            "caps": 66,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ryan Elias",
+            "year_born": 1995,
+            "caps": 51,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Rhys Carre",
+            "year_born": 1998,
+            "caps": 31,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Dewi Lake",
+            "year_born": 1999,
+            "caps": 34,
+            "international_tries": 9,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Dillon Lewis",
+            "year_born": 1996,
+            "caps": 60,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Adam Beard",
+            "year_born": 1996,
+            "caps": 69,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jac Morgan",
+            "year_born": 2000,
+            "caps": 29,
+            "international_tries": 10,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Aaron Wainwright",
+            "year_born": 1997,
+            "caps": 70,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tomos Williams",
+            "year_born": 1995,
+            "caps": 75,
+            "international_tries": 15,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Joe Hawkins",
+            "year_born": 2002,
+            "caps": 14,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Louis Rees-Zammit",
+            "year_born": 2001,
+            "caps": 43,
+            "international_tries": 16,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Blair Murray",
+            "year_born": 2001,
+            "caps": 19,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sam Costelow",
+            "year_born": 2001,
+            "caps": 22,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ben Carter",
+            "year_born": 2001,
+            "caps": 21,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Alex Mann",
+            "year_born": 2002,
+            "caps": 18,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Dan Edwards",
+            "year_born": 2003,
+            "caps": 13,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Adams",
+            "year_born": 1995,
+            "caps": 73,
+            "international_tries": 25,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Eddie James",
+            "year_born": 2002,
+            "caps": 11,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Max Llewellyn",
+            "year_born": 1999,
+            "caps": 13,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Teddy Williams",
+            "year_born": 2000,
+            "caps": 10,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Freddie Thomas",
+            "year_born": 2001,
+            "caps": 9,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ben Thomas",
+            "year_born": 1998,
+            "caps": 19,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Taine Plumtree",
+            "year_born": 2000,
+            "caps": 15,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kieran Hardy",
+            "year_born": 1995,
+            "caps": 32,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kane James",
+            "year_born": 2005,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Reuben Morgan-Williams",
+            "year_born": 1998,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tommy Reffell",
+            "year_born": 1999,
+            "caps": 30,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "France",
+        "players": [
+            {
+            "name": "Killian Tixeront",
+            "year_born": 2002,
+            "caps": 6,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jefferson Poirot",
+            "year_born": 1992,
+            "caps": 39,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Maxime Lamothe",
+            "year_born": 1998,
+            "caps": 6,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Hugo Auradou",
+            "year_born": 2003,
+            "caps": 14,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom Staniforth",
+            "year_born": 1994,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Marko Gazzotti",
+            "year_born": 2004,
+            "caps": 4,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Maxime Lucu",
+            "year_born": 1993,
+            "caps": 33,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Matthieu Jalibert",
+            "year_born": 1998,
+            "caps": 42,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Theo Attissogbe",
+            "year_born": 2004,
+            "caps": 16,
+            "international_tries": 12,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Yoram Moefana",
+            "year_born": 2000,
+            "caps": 42,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Fabien Brau-Boirie",
+            "year_born": 2005,
+            "caps": 5,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Emmanuel Meafou",
+            "year_born": 1998,
+            "caps": 18,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Lenni Nouchi",
+            "year_born": 2003,
+            "caps": 8,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Romain Ntamack",
+            "year_born": 1999,
+            "caps": 45,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Aaron Grandidier-Nkanang",
+            "year_born": 2000,
+            "caps": 2,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nolann Le Garrec",
+            "year_born": 2002,
+            "caps": 16,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Regis Montagne",
+            "year_born": 2000,
+            "caps": 9,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Reda Wardi",
+            "year_born": 1995,
+            "caps": 20,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Demba Bamba",
+            "year_born": 1998,
+            "caps": 33,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Oscar Jegou",
+            "year_born": 2003,
+            "caps": 15,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kalvin Gourgues",
+            "year_born": 2005,
+            "caps": 4,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Peato Mauvaka",
+            "year_born": 1997,
+            "caps": 48,
+            "international_tries": 11,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Florian Verhaeghe",
+            "year_born": 1997,
+            "caps": 5,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Paul Graou",
+            "year_born": 1997,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Nicolas Depoortere",
+            "year_born": 2003,
+            "caps": 10,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sipili Falatea",
+            "year_born": 1997,
+            "caps": 15,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Antoine Hastoy",
+            "year_born": 1997,
+            "caps": 11,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Alexandre Roumat",
+            "year_born": 1997,
+            "caps": 11,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Mickael Guillard",
+            "year_born": 2000,
+            "caps": 19,
+            "international_tries": 2,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Barnabe Massa",
+            "year_born": 2004,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Pierre Bochaton",
+            "year_born": 2001,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Damian Penaud",
+            "year_born": 1996,
+            "caps": 60,
+            "international_tries": 41,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Max Spring",
+            "year_born": 2001,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tevita Tatafu",
+            "year_born": 2002,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Moses Alo-Emile",
+            "year_born": 2000,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        },
+        {
+        "team": "Scotland",
+        "players": [
+            {
+            "name": "Gregor Brown",
+            "year_born": 2001,
+            "caps": 19,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Zander Fagerson",
+            "year_born": 1996,
+            "caps": 84,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Rory Sutherland",
+            "year_born": 1992,
+            "caps": 53,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Gregor Hiddleston",
+            "year_born": 2002,
+            "caps": 3,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Pierre Schoeman",
+            "year_born": 1994,
+            "caps": 52,
+            "international_tries": 9,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Scott Cummings",
+            "year_born": 1996,
+            "caps": 52,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Tom Jordan",
+            "year_born": 1998,
+            "caps": 18,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jamie Dobie",
+            "year_born": 2001,
+            "caps": 22,
+            "international_tries": 9,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Sione Tuipulotu",
+            "year_born": 1997,
+            "caps": 42,
+            "international_tries": 4,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Darcy Graham",
+            "year_born": 1997,
+            "caps": 57,
+            "international_tries": 38,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Fergus Burke",
+            "year_born": 1999,
+            "caps": 5,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "George Horne",
+            "year_born": 1995,
+            "caps": 47,
+            "international_tries": 11,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ewan Ashman",
+            "year_born": 2000,
+            "caps": 37,
+            "international_tries": 14,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jonny Gray",
+            "year_born": 1994,
+            "caps": 83,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Matt Fagerson",
+            "year_born": 1998,
+            "caps": 66,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Rory Darge",
+            "year_born": 2000,
+            "caps": 41,
+            "international_tries": 7,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Jack Dempsey",
+            "year_born": 1994,
+            "caps": 49,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ben White",
+            "year_born": 1998,
+            "caps": 38,
+            "international_tries": 10,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Rory Hutchinson",
+            "year_born": 1996,
+            "caps": 13,
+            "international_tries": 5,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kyle Steyn",
+            "year_born": 1994,
+            "caps": 35,
+            "international_tries": 18,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Kyle Rowe",
+            "year_born": 1998,
+            "caps": 19,
+            "international_tries": 8,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Stafford McDowall",
+            "year_born": 1998,
+            "caps": 18,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Magnus Bradbury",
+            "year_born": 1995,
+            "caps": 24,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Josh Bayliss",
+            "year_born": 1997,
+            "caps": 18,
+            "international_tries": 6,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Max Williamson",
+            "year_born": 2002,
+            "caps": 15,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Finn Russell",
+            "year_born": 1992,
+            "caps": 99,
+            "international_tries": 11,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Liam McConnell",
+            "year_born": 2004,
+            "caps": 2,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Seb Stephen",
+            "year_born": 2005,
+            "caps": 1,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "D'Arcy Rae",
+            "year_born": 1994,
+            "caps": 8,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Freddy Douglas",
+            "year_born": 2005,
+            "caps": 3,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Duhan van der Merwe",
+            "year_born": 1996,
+            "caps": 57,
+            "international_tries": 35,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Ollie Smith",
+            "year_born": 2000,
+            "caps": 13,
+            "international_tries": 3,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Alex Samuel",
+            "year_born": 2002,
+            "caps": 4,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Elliot Millar Mills",
+            "year_born": 1992,
+            "caps": 15,
+            "international_tries": 0,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            },
+            {
+            "name": "Will Hurd",
+            "year_born": 1999,
+            "caps": 11,
+            "international_tries": 1,
+            "height_m": null,
+            "tackle_completion_pct": null,
+            "metres_made": null
+            }
+        ]
+        }
+    ]
+    }
+
