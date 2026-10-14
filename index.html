@@ -11,8 +11,9 @@
 <body>
 <div class="flex-container">
     <header class="header">Col's Top Trumps </header> 
-    <aside class="aside aside1" button="Random choice"> Player 1 
-        <p>Click the random button to choose a random Top Trumps card</p>
+    <aside class="aside aside1"> Player 1 
+        <p>Click the random button to 
+            choose a random Top Trumps card</p>
 
         <button onClick="alert('Choice Made - Change this to make it choose a player from the database')">Random</button>
     </aside>
@@ -21,12 +22,24 @@
         <p > Experience the excitement of the Top Trumps Card Game. Dive into a world of strategy, skill, and fun as you 
         explore the official game page. Learn the rules, discover unique card decks, 
         and challenge friends or opponents online. Are you ready to become the ultimate Top Trumps champion?</p>
+        <br>
+        <div class="dropdown">
+            <button onClick="myFunction()" class="dropbtn" position="center" >Category</button>
+            <select id="myDropdown" class="dropdown-content">
+                <option value="Height"> Height</option>
+                <option value="International Caps"> International Caps</option>
+                <option value="International tries"> International Tries</option>
+                <option value="Tackle Rating"> Tackle Rating </option>
+            </select>
+        </div>
+        
     <br>
     </article>
     
     <aside class="aside aside2"> Player 2 
-        <p>Click the random button to choose a random Top Trumps card</p>
-        <button onClick="alert('Choice Made - Change this to make it choose a player from the database')">Random</button>
+        <p>Click the random button to 
+            choose a random Top Trumps card</p>
+            <button onClick="alert('Choice Made - Change this to make it choose a player from the database')">Random</button>
     </aside>
 
     <p> </p>

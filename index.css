@@ -1,6 +1,6 @@
 container {
     display: grid;
-    
+    word-wrap: break-word;
 }
 
 img {
@@ -14,14 +14,14 @@ body {
     background-color: rgb(101, 136, 101);
 }
 
-header {
+/* header {
     color: rgb(111, 162, 207);
     text-align: center;
     border-style: style;
     border-color: rgb(207, 16, 16);
 
 
-}
+} */
 
 @media (max-width: 768px){
     body {
@@ -43,6 +43,7 @@ header {
     flex-flow: row wrap;
     font-weight: bold;
     text-align: center;
+    word-wrap: break-word;
 }
 
 .flex-container > * {
@@ -51,9 +52,38 @@ header {
 }
 
 .main {
-    text-align: left;
+    text-align: center;
     background: cornflowerblue;
 }
+.dropdown {
+    position: center;
+}
+
+.dropbtn {
+    background-color: green;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: aliceblue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    position: relative;
+}
+
+.show {
+    display:block;
+}
+
+
 
 .header {
     background: rgb(14, 11, 10);
@@ -69,16 +99,17 @@ header {
 
 .aside1 {
     background: rgb(95, 75, 39);
-
+    word-wrap: break-word;
 }
 
-    .aside2 {
+.aside2 {
     background: rgb(238, 130, 144);
+    word-wrap: break-word;
 }
 
 @media all and (min-width: 768px) {
     .aside { 
-        flex: 0.25 auto; 
+        flex: 0.10 auto; 
     }
     .main    {
         flex: 10 0px; 
