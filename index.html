@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="index.css">
 
 </head>
+<script src="app.js"></script>
 <body>
 <div class="flex-container">
     <header class="header">Col's Top Trumps </header> 
@@ -15,7 +16,7 @@
         <p>Click the random button to 
             choose a random Top Trumps card</p>
 
-        <button onClick="alert('Choice Made - Change this to make it choose a player from the database')">Random</button>
+        <button onClick="currentCard()">Random</button>
     </aside>
 
     <article class="main">
@@ -26,11 +27,10 @@
         <div class="dropdown">
             <button onClick="myFunction()" class="dropbtn" position="center" >Category</button>
             <select id="myDropdown" class="dropdown-content">
-                <option value="Height"> Height</option>
+                <option value="Year Born"> Year Born </option>
                 <option value="International Caps"> International Caps</option>
                 <option value="International tries"> International Tries</option>
-                <option value="Tackle Rating"> Tackle Rating </option>
-            </select>
+                </select>
         </div>
         
     <br>
