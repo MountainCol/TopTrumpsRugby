@@ -23,6 +23,25 @@ body {
 
 } */
 
+h1 {
+    color: rgb(255, 115, 0);
+    text-align: center;
+}
+
+.mycontainer {
+    display: flex;
+}
+
+.mycontainer > div {
+    width: 33%;
+}
+
+img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+
 @media (max-width: 768px){
     body {
         font-size: 14px;
@@ -101,12 +120,15 @@ body {
     background: rgb(95, 75, 39);
     word-wrap: break-word;
     animation: slideInLeft 1s ease forwards;
+    object-fit: cover;
+
 }
 
 .aside2 {
     background: rgb(238, 130, 144);
     word-wrap: break-word;
     animation: slideInRight 1s ease forwards;
+    object-fit: cover;
 }
 
 @media all and (min-width: 768px) {
