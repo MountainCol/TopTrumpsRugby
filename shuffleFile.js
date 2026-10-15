@@ -47,6 +47,79 @@ function shuffle(players) {
         }
     }
 }
+function compareStat(stat){
+    const p1Stat = p1Current[0][stat];
+    const p2Stat = p2Current[0][stat];
+
+    switch(stat) {
+        case "year_born":
+        case "caps":
+        case "international_tries":
+            if (p1Stat > p2Stat) {
+                roundOutcome("p1-win");
+            } else if (p2Stat > p1Stat){
+                roundOutcome("p2-win");
+            } else {
+                roundOutcome("stalemate");
+            }
+        break;
+    }
+}
+// to find the outcome from game playand show scoring increase //
+function roundOutcome(outcome) {
+    const isP1Win = outcome === "p1-win";
+    const isP2Win = outcome === "p2-win";
+
+    if(isP1Win) {
+        p1Score+=1;
+        p1ScoreDisplay.textContent = `Player one score: ${p1Score}`;
+
+        p1Cards.push(p2Current.splice(0,1)[0]);
+        p2Cards.push(p1Current.splice(0,1)[0]);
+    } else if (isP2Win){
+        p2Score+=1;
+        p2ScoreDisplay.textContent = `player two score: ${p2Score}`;
+
+        p2Cards.push(p1Current.splice(0,1)[0]);
+        p2Cards.push(p2Current.splice(0,1)[0]);
+    } else {
+        p1Cards.push(p1Current.splice(0,1)[0]);
+        p2Cards.push(p2Current.splice(0,1)[0]);
+    }
+
+    const winnertText = isP1Win ? "one" : "two";
+    const tieMessage = "This round is a tie!";
+    const winnerMessage = `player ${winnerText} wins the round!`;
+
+    if(isP1Win || isP2Win) {
+        msgDisplay.textContent = winnerMessage;
+    } else {
+        msgDisplay.textContent = tieMessage;
+    }
+    resetMsgDisplay();
+
+    setTimeout( () => {msgDisplay.style.display = "none"}, 2000);
+    playGame() 
+}
+
+
+const resetMsgDisplay = () => msgDisplay.style.display = "inline-block";
+
+function playGame() {
+    if(p1Cards.length < 10 && p2Cards.length <210){
+        currentCard();
+        return
+    }
+
+    const isP1Win = p1Card.length === 10;
+    const isP2Win = p2Card.length === 10;
+    const winnerText = isP1Win ? "one" : "two";
+    const winnerMessage = `Player ${winnerTExt} wins the game`;
+
+    if (isP1Win || isP2Win){
+        msgDisplay.textContent = winnerMessage;
+    }
+}
 
 function currentCard() {
     const p1 = Math.floor((Math.random() * p1Cards.length));
@@ -55,7 +128,6 @@ function currentCard() {
     p1Current.push(p1Cards.splice(p1, 1)[0]);
     p2Current.push(p2Cards.splice(p2, 1)[0]);
 }
-
 
 
 // Used like so

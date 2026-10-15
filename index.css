@@ -100,11 +100,13 @@ body {
 .aside1 {
     background: rgb(95, 75, 39);
     word-wrap: break-word;
+    animation: slideInLeft 1s ease forwards;
 }
 
 .aside2 {
     background: rgb(238, 130, 144);
     word-wrap: break-word;
+    animation: slideInRight 1s ease forwards;
 }
 
 @media all and (min-width: 768px) {

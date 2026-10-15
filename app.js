@@ -299,8 +299,6 @@ const players = [
             }
         ];
 
-
-
 //categories to choose from //
 
 const year_born = document.getElementById("year_born");
@@ -364,60 +362,6 @@ console.log(p2Current[0]);
 
 
 
-// // Player Cards
-// const p1Cards = [];
-// const p2Cards = [];
-
-// let p1Score = 0;
-// let p2Score = 0;
-
-// const p1Current = [];
-// const p2Current = [];
-
-// function shuffle(players) {
-//     const deckLength  = players.length;
-//     let p1CardCount = 0;
-//     let p2CardCount = 0;
-
-//     for(let i = deckLength; i > 0; i--) {
-//         let cardIdx = Math.floor(Math.random() * i );
-//         let randomisedCard = players.splice(cardIdx, 1);
-
-//         if(p1CardCount > p2CardCount) {
-//             p2Cards.push(randomisedCard[0]);
-//             p2CardCount +=1;
-//         } else if(p1CardCount === p2CardCount) {
-//             p1Cards.push(randomisedCard[0]);
-//             p1CardCount +=1;
-//         }
-//     }
-// }
-
-// function compareStat(stat){
-//     const p1Stat = p1Current[0][stat];
-//     const p2Stat = p2Current[0][stat];
-
-//     switch(stat) {
-//         case "birthdate":
-//         case "caps":
-//         case "international_tries":
-//             if (p1Stat > p2Stat) {
-//                 processRoundOutcome("p1-win");
-//             } else if (p2Stat > p1Stat) {
-//                 processRoundOutcome("p1-win");
-//             } else {
-//                 processRoundOutcome("stalemate");
-//             }
-//         break;
-//     }
-// }
-
-// function processRoundOutcome(outcome) {
-//     const isp1Win = outcome === "p1-win";
-//     const isp2Win = outcome === "p2-win";
-
-
-// }
 
 
 
@@ -434,40 +378,3 @@ console.log(p2Current[0]);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// module.exports = Game;
