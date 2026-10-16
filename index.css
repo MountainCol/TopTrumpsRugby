@@ -73,6 +73,7 @@ img {
 .main {
     text-align: center;
     background: cornflowerblue;
+    border-radius: 18px;
 }
 .dropdown {
     position: center;
@@ -114,21 +115,21 @@ img {
 
 .footer {
     background: lightgreen;
+    border-radius: 18px;
 }
 
 .aside1 {
     background: rgb(95, 75, 39);
     word-wrap: break-word;
-    animation: slideInLeft 1s ease forwards;
     object-fit: cover;
-
+    border-radius: 18px;
 }
 
 .aside2 {
     background: rgb(238, 130, 144);
     word-wrap: break-word;
-    animation: slideInRight 1s ease forwards;
     object-fit: cover;
+    border-radius: 18px;
 }
 
 @media all and (min-width: 768px) {
@@ -152,3 +153,21 @@ img {
     }
 }
 
+
+.card {
+    width: min(400px, 90vw);
+    margin: 0 auto;
+    padding: 24px 28px;
+    border: 2px solid var(--border);
+    border-radius: 18px;
+    background: var(--surface);
+    box-shadow: 0 14px 28px rgba(15, 23, 42, 0.08);
+}
+
+.card h2 {
+    margin: 0 0 12px;
+}
+.card p {
+    margin: 0 0 16px;
+    line-height: 1.6;
+}

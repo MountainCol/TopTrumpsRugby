@@ -139,7 +139,8 @@ const players = [
             "international_tries": 2,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/C_Ratima.png"
             },
             {
             "name": "Tyrel Lomax",
@@ -148,7 +149,8 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/T_Lomax.png"
             },
             {
             "name": "Ethan De Groot",
@@ -157,7 +159,8 @@ const players = [
             "international_tries": 5,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/E_DeGroot.png"
             },
             {
             "name": "Codie Taylor",
@@ -166,7 +169,8 @@ const players = [
             "international_tries": 25,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/C_Taylor.png"
             },
             {
             "name": "Josh Lord",
@@ -175,7 +179,8 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/J_Lord.png"
             },
             {
             "name": "Luke Jacobson",
@@ -184,7 +189,8 @@ const players = [
             "international_tries": 6,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/L_Jacobson.png"
             },
             {
             "name": "Ardie Savea",
@@ -193,7 +199,8 @@ const players = [
             "international_tries": 35,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/A_Savea.png"
             },
             {
             "name": "Cameron Roigard",
@@ -202,7 +209,8 @@ const players = [
             "international_tries": 17,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/C_Roigard.png"
             },
             {
             "name": "Ruben Love",
@@ -211,7 +219,8 @@ const players = [
             "international_tries": 3,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/R_Love.png"
             },
             {
             "name": "Jordie Barrett",
@@ -220,7 +229,8 @@ const players = [
             "international_tries": 26,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/J_Barrett.png"
             },
             {
             "name": "Will Jordan",
@@ -229,7 +239,8 @@ const players = [
             "international_tries": 56,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/W_Jordan"
             },
             {
             "name": "Damian McKenzie",
@@ -238,7 +249,8 @@ const players = [
             "international_tries": 24,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/D_McKEnzie",
             },
             {
             "name": "Tupou Vaa'i",
@@ -247,7 +259,8 @@ const players = [
             "international_tries": 7,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/T_Vaa'i",
             },
             {
             "name": "Billy Proctor",
@@ -256,7 +269,8 @@ const players = [
             "international_tries": 3,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/B_Proctor",
             },
             {
             "name": "Wallace Sititi",
@@ -265,7 +279,8 @@ const players = [
             "international_tries": 1,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/W_Sititi",
             },
             {
             "name": "Xavier Numia",
@@ -274,7 +289,8 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/X_Numia",
             },
             {
             "name": "Asafo Aumua",
@@ -283,7 +299,8 @@ const players = [
             "international_tries": 3,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/A_Aumua",
             },
             {
             "name": "Fletcher Newell",
@@ -292,7 +309,9 @@ const players = [
             "international_tries": 2,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/F_Newell",
+
             },
             {
             "name": "Sam Darry",
@@ -301,7 +320,9 @@ const players = [
             "international_tries": 2,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/S_Darry",
+
             },
             {
             "name": "Peter Lakai",
@@ -310,7 +331,9 @@ const players = [
             "international_tries": 3,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/P_Lakai",
+
             },
             {
             "name": "Caleb Clarke",
@@ -319,7 +342,9 @@ const players = [
             "international_tries": 16,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/C_Clarke"
+
             },
             {
             "name": "Quinn Tupaea",
@@ -328,7 +353,9 @@ const players = [
             "international_tries": 5,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/Q_Tupaea",
+
             },
             {
             "name": "Josh Moorby",
@@ -337,7 +364,9 @@ const players = [
             "international_tries": 2,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/J_Moorby",
+
             },
             {
             "name": "Anton Lienert-Brown",
@@ -346,7 +375,9 @@ const players = [
             "international_tries": 17,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/A_Lienert-Brown",
+
             },
             {
             "name": "Anton Segner",
@@ -355,7 +386,9 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/A_Segner",
+
             },
             {
             "name": "Samisoni Taukei'aho",
@@ -364,7 +397,9 @@ const players = [
             "international_tries": 14,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/S_Taukei'aho",
+
             },
             {
             "name": "Leroy Carter",
@@ -373,7 +408,9 @@ const players = [
             "international_tries": 5,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/L_Carter",
+
             },
             {
             "name": "Patrick Tuipulotu",
@@ -382,7 +419,9 @@ const players = [
             "international_tries": 8,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/P_Tuipulotu",
+
             },
             {
             "name": "Fehi Fineanganofo",
@@ -391,7 +430,9 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null, 
+            "img": "./images/F_Fineanganofo",
+
             },
             {
             "name": "Jamie Hannah",
@@ -400,7 +441,9 @@ const players = [
             "international_tries": 0,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null,
+            "img": "./images/J_HAnnah",
+
             },
             {
             "name": "Pasilio Tosi",
@@ -409,7 +452,9 @@ const players = [
             "international_tries": 1,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null, 
+            "img": "./images/P_Tosi",
+
             },
             {
             "name": "George Bower",
@@ -418,10 +463,13 @@ const players = [
             "international_tries": 1,
             "height_m": null,
             "tackle_completion_pct": null,
-            "metres_made": null
+            "metres_made": null, 
+            "img": "./images/G_Bower",
+
             }
         ];
-shuffle(players);
+
+        shuffle(players);
 currentCard();
 
 console.log(p1Current[0].name);
