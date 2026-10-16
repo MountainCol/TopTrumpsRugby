@@ -67,7 +67,7 @@ img {
 
 .flex-container > * {
     padding: 10px;
-    flex: 1 100%;
+    flex: 1 100%
 }
 
 .main {
@@ -79,8 +79,8 @@ img {
     position: center;
 }
 
-.dropbtn {
-    background-color: green;
+.btn {
+    background-color: grey;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -119,22 +119,20 @@ img {
 }
 
 .aside1 {
-    background: rgb(95, 75, 39);
-    word-wrap: break-word;
-    object-fit: cover;
+    background: rgb(0, 0, 0);
+        object-fit: cover;
     border-radius: 18px;
 }
 
 .aside2 {
-    background: rgb(238, 130, 144);
-    word-wrap: break-word;
+    background: rgb(0, 0, 0);
     object-fit: cover;
     border-radius: 18px;
 }
 
 @media all and (min-width: 768px) {
     .aside { 
-        flex: 0.10 auto; 
+        flex: 0.10 relative; 
     }
     .main    {
         flex: 10 0px; 
@@ -162,10 +160,12 @@ img {
     border-radius: 18px;
     background: var(--surface);
     box-shadow: 0 14px 28px rgba(15, 23, 42, 0.08);
+    color: white
 }
 
 .card h2 {
     margin: 0 0 12px;
+    text-align:center
 }
 .card p {
     margin: 0 0 16px;

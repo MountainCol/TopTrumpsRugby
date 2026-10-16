@@ -1,23 +1,3 @@
-// Source - https://stackoverflow.com/a/2450976
-// Posted by ChristopheD, modified by community. See post 'Timeline' for change history
-// Retrieved 2026-10-14, License - CC BY-SA 4.0
-
-// function shuffle(players) {
-//     let currentIndex = players.length;
-
-//   // While there remain elements to shuffle...
-//     while (currentIndex != 1) {
-
-//     // Pick a remaining element...
-//     const randomIndex = Math.floor(Math.random() * currentIndex);
-//     currentIndex--;
-
-//     // And swap it with the current element.
-//     [players[currentIndex], players[randomIndex]] = [
-//         players[randomIndex], players[currentIndex]];
-//     } 
-// }
-
 const p1Cards = [];
 const p2Cards = [];
 
@@ -27,7 +7,15 @@ let p2Score = 0;
 const p1Current =[];
 const p2Current = [];
 
-
+// async function loadData() {
+//     const response = await fetch("./players.json")
+//     .then(res => res.json())
+//     .then(data => {
+//         data.forEach(post => {
+//             <li> post.title </li>
+//         })
+//     });
+// }
 
 function shuffle(players) {
     const deckLength  = players.length;
@@ -65,6 +53,7 @@ function compareStat(stat){
         break;
     }
 }
+
 // to find the outcome from game playand show scoring increase //
 function roundOutcome(outcome) {
     const isP1Win = outcome === "p1-win";
@@ -127,6 +116,16 @@ function currentCard() {
 
     p1Current.push(p1Cards.splice(p1, 1)[0]);
     p2Current.push(p2Cards.splice(p2, 1)[0]);
+}
+
+async function loadData() {
+    const response = await fetch("players");
+
+    if (!response.ok) {
+        throw new Error("Could not load data.");
+    }
+
+    return response.json();
 }
 
 
@@ -469,7 +468,7 @@ const players = [
             }
         ];
 
-        shuffle(players);
+shuffle(players);
 currentCard();
 
 console.log(p1Current[0].name);
@@ -479,3 +478,23 @@ console.log(p1Current[0]);
 console.log(p2Current[0].name);
 console.log(p2Current[0]);
 
+players.map(getNameCaps);
+
+function getNameCaps(item) {
+    return [item.name, item.caps].join( " ");
+
+
+}
+
+document.getElementById("demo").innerHTML = players.map(getPlayer).join("");
+
+function getPlayer(item) {
+    return `
+        <div class="player">
+        <img src="${item.img}" alt="${item.name}">
+            <p>${item.name} <br> ${item.caps} caps 
+            <br>${item.international_tries}  International Tries
+            <br> Year of Birth : ${item.year_born} </p>
+        </div>
+            `;
+        }
