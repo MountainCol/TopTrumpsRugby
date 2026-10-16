@@ -67,86 +67,87 @@ const players = [
             "year_born": 2001,
             "caps": 3,
             "international_tries": 0,
-            "img": "./images/A_Segner"
+            "img": "./images/A_Segner.png"
             },
             {
             "name": "Samisoni Taukei'aho",
             "year_born": 1997,
             "caps": 45,
             "international_tries": 14,
-            "img": "./images/S_Taukei'aho"
+            "img": "./images/S_Taukei'aho.png"
             },
             {
             "name": "Leroy Carter",
             "year_born": 1999,
             "caps": 11,
             "international_tries": 5,
-            "img": "./images/L_Carter"
+            "img": "./images/L_Carter.png"
             },
             {
             "name": "Patrick Tuipulotu",
             "year_born": 1993,
             "caps": 60,
             "international_tries": 8,
-            "img": "./images/P_Tuipulotu"
+            "img": "./images/P_Tuipulotu.png"
             },
             {
             "name": "Fehi Fineanganofo",
             "year_born": 2002,
             "caps": 1,
             "international_tries": 0,
-            "img": "./images/F_Fineanganofo"
+            "img": "./images/F_Fineanganofo.png"
             },
             {
             "name": "Jamie Hannah",
             "year_born": 2002,
             "caps": 1,
             "international_tries": 0,
-            "img": "./images/J_Hannah"
+            "img": "./images/J_Hannah.png"
             },
             {
             "name": "Pasilio Tosi",
             "year_born": 1998,
             "caps": 18,
             "international_tries": 1,
-            "img": "./images/P_Tosi"
+            "img": "./images/P_Tosi.png"
             },
             {
             "name": "George Bower",
             "year_born": 1992,
             "caps": 30,
             "international_tries": 1,
-            "img": "./images/G_Bower"
+            "img": "./images/G_Bower.png"
             }
 ];
 
 
-
-// function getPlayer(item) {
-//     return `
-//         <div class="player">
-//         <img src="${item.img}" alt="${item.name}">
-//         <p>${item.name} <br> ${item.caps} caps 
-//             <br>${item.international_tries}  International Tries
-//             <br> Year of Birth : ${item.year_born} </p>
-//         </div>
-//     `;
-// }
-
-function randomClick() {
-
-    document.addEventListener('DOMContentLoaded', () => {
-        document.getElementById("btn").addEventListener()'click', () => {
-            function getPlayer(item) {
-                return `
-                    <div class="player">
-                    <img src="${item.img}" alt="${item.name}">
-                    <p>${item.name} <br> ${item.caps} caps 
-                        <br>${item.international_tries}  International Tries
-                        <br> Year of Birth : ${item.year_born} </p>
-                    </div>
-                    `;
-                }
-            }
-        }
+function getPlayer(item) {
+    return `
+        <div class="player">
+        <img src="${item.img}" alt="${item.name}">
+        <p>${item.name} <br> ${item.caps} caps 
+            <br>${item.international_tries}  International Tries
+            <br> Year of Birth : ${item.year_born} </p>
+        </div>
+    `;
 }
+
+// function randomClick() {
+
+//     document.addEventListener('DOMContentLoaded'), () => {
+//         element.addEventListener('click', () => {
+//             function getPlayer(item) {
+//                 return `
+//                     <div class="player">
+//                     <img src="${item.img}" alt="${item.name}">
+//                     <p>${item.name} <br> ${item.caps} caps 
+//                         <br>${item.international_tries}  International Tries
+//                         <br> Year of Birth : ${item.year_born} </p>
+//                     </div>
+//                     `;
+//                 }
+//             })
+//         }
+// }    
+
+getPlayer()
