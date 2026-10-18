@@ -120,7 +120,7 @@ img {
 
 .aside1 {
     background: rgb(0, 0, 0);
-        object-fit: cover;
+    object-fit: cover;
     border-radius: 18px;
 }
 
@@ -132,7 +132,7 @@ img {
 
 @media all and (min-width: 768px) {
     .aside { 
-        flex: 0.10 relative; 
+        flex: 13; 
     }
     .main    {
         flex: 10 0px; 

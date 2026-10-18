@@ -121,7 +121,8 @@ const players = [
 ];
 
 
-document.getElementById("AllBlacks").innerHTML = players.map(getPlayer).join("");
+document.getElementById("btn").innerHTML = players.map(getPlayer).join("");
+document.getElementById("btn2").innerHTML = players.map(getPlayer).join("");
 
 function getPlayer(item) {
     return `
