@@ -121,33 +121,19 @@ const players = [
 ];
 
 
+document.getElementById("AllBlacks").innerHTML = players.map(getPlayer).join("");
+
 function getPlayer(item) {
     return `
         <div class="player">
         <img src="${item.img}" alt="${item.name}">
-        <p>${item.name} <br> ${item.caps} caps 
-            <br>${item.international_tries}  International Tries
-            <br> Year of Birth : ${item.year_born} </p>
+        <p>${item.name} 
+            <br> 
+            ${item.caps} caps 
+            <br>
+            ${item.international_tries}  International Tries
+            <br> 
+            Year of Birth : ${item.year_born} </p>
         </div>
     `;
 }
-
-// function randomClick() {
-
-//     document.addEventListener('DOMContentLoaded'), () => {
-//         element.addEventListener('click', () => {
-//             function getPlayer(item) {
-//                 return `
-//                     <div class="player">
-//                     <img src="${item.img}" alt="${item.name}">
-//                     <p>${item.name} <br> ${item.caps} caps 
-//                         <br>${item.international_tries}  International Tries
-//                         <br> Year of Birth : ${item.year_born} </p>
-//                     </div>
-//                     `;
-//                 }
-//             })
-//         }
-// }    
-
-getPlayer()

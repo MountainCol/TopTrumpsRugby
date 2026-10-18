@@ -171,3 +171,24 @@ img {
     margin: 0 0 16px;
     line-height: 1.6;
 }
+
+
+.player {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "helvetica";
+    color: white ; 
+    box-sizing: "border-box";
+    border: 2px solid;
+    background-color:black
+}
+
+.player img {
+    width: auto;
+    height: auto;
+}
