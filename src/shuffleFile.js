@@ -12,15 +12,15 @@ let p2Score = 0;
 const p1Current =[];
 const p2Current = [];
 
-async function loadData() {
-    const response = await fetch("./players.json")
-    .then(res => res.json())
-    .then(data => {
-        data.forEach(post => {
-            <li> post.title </li>
-        })
-    });
-}
+// async function loadData() {
+//     const response = await fetch("./players.json")
+//     .then(res => res.json())
+//     .then(data => {
+//         data.forEach(post => {
+//             <li> post.title </li>
+//         })
+//     });
+// }
 
 function shuffle(players) {
     const deckLength  = players.length;
@@ -119,7 +119,7 @@ function playGame() {
 function currentCard() {
     const p1 = Math.floor((Math.random() * p1Cards.length));
     const p2 = Math.floor((Math.random() * p2Cards.length));
-
+console.log(p1, p2)
     p1Current.push(p1Cards.splice(p1, 1)[0]);
     p2Current.push(p2Cards.splice(p2, 1)[0]);
 }
@@ -502,7 +502,9 @@ function getPlayer(item) {
         </div>
             `;
         }
-document.getElementById("demo").innerHTML = players.map(getPlayer).join("");
+        console.log(document.getElementById("stat-btns"))
+
+document.getElementById("stat-btns").innerHTML = players.map(getPlayer).join("");
 
 year_bornBtn.addEventListener("click", () => {
     compareStat("year_born");
