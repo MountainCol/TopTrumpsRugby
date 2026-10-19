@@ -120,6 +120,7 @@ const players = [
             }
 ];
 
+const 
 
 document.getElementById("btn").innerHTML = players.map(getPlayer).join("");
 document.getElementById("btn2").innerHTML = players.map(getPlayer).join("");
@@ -127,7 +128,7 @@ document.getElementById("btn2").innerHTML = players.map(getPlayer).join("");
 function getPlayer(item) {
     return `
         <div class="player">
-        <img src="${item.img}" alt="${item.name}">
+        <img src="${item.img}">
         <p>${item.name} 
             <br> 
             ${item.caps} caps 
@@ -138,3 +139,12 @@ function getPlayer(item) {
         </div>
     `;
 }
+
+
+
+
+
+
+
+
+export default players;

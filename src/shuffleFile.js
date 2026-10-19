@@ -1,3 +1,8 @@
+const year_bornBtn = document.getElementById("year_born-btn");
+const capsBtn = document.getElementById("caps-btn");
+const international_triesBtn = document.getElementById("int-tries-btn");
+
+
 const p1Cards = [];
 const p2Cards = [];
 
@@ -7,15 +12,15 @@ let p2Score = 0;
 const p1Current =[];
 const p2Current = [];
 
-// async function loadData() {
-//     const response = await fetch("./players.json")
-//     .then(res => res.json())
-//     .then(data => {
-//         data.forEach(post => {
-//             <li> post.title </li>
-//         })
-//     });
-// }
+async function loadData() {
+    const response = await fetch("./players.json")
+    .then(res => res.json())
+    .then(data => {
+        data.forEach(post => {
+            <li> post.title </li>
+        })
+    });
+}
 
 function shuffle(players) {
     const deckLength  = players.length;
@@ -35,6 +40,7 @@ function shuffle(players) {
         }
     }
 }
+
 function compareStat(stat){
     const p1Stat = p1Current[0][stat];
     const p2Stat = p2Current[0][stat];
@@ -486,8 +492,6 @@ function getNameCaps(item) {
 
 }
 
-document.getElementById("demo").innerHTML = players.map(getPlayer).join("");
-
 function getPlayer(item) {
     return `
         <div class="player">
@@ -498,3 +502,16 @@ function getPlayer(item) {
         </div>
             `;
         }
+document.getElementById("demo").innerHTML = players.map(getPlayer).join("");
+
+year_bornBtn.addEventListener("click", () => {
+    compareStat("year_born");
+})
+
+capsBtn.addEventListener("click", () => {
+    compareStat("caps-btn");
+})
+
+international_triesBtn.addEventListener("click", () => {
+    compareStat("int-tries-btn");
+})

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 <link rel="stylesheet" href="index.css">
-    
+<script src="./src/shuffleFile.js"></script>
 </head>
 <body>
     <h1>Trial html boxes for fit and image
@@ -18,26 +18,39 @@
 
     <div style="background-color: black" class="card">
         <h2>Player 1</h2>
-        <button id="btn" class="btn" onClick= src "/src/players.js">Click me to show a random All Black</button>
+        <button id="btn" class="btn" >Click me to show a random All Black</button>
+        <div id="output"></div>
         <!-- <script ></script> -->
     </div>
     
     <div style="background-color:#a58d8f" class="card" >
         <h2 class="h2">How to play</h2>
         <p> Click on either "Click Me" buttons to choose a random player.</p>
+        <div id='button-container'>
+            
+            <div id='stat-btns' class="stats-btn">
+                <button id="year_born-btn">Year Born</button> 
+                <br>
+                <button id="caps-btn">International Caps</button>
+                <br>
+                <button id="int-tries-btn">International Tries</button>
+                <!-- <button id="price-btn">Price</button> -->
+            </div>
+        </div>
     </div>
     
     <div style="background-color:#040404" class="card">
         <h2>Player 2</h2>
         <button id="btn2" class="btn" src="./src/players.js" onClick="getPlayer(item)">Click me to show a random All Black</button>
-        <script src="./src/players.js"></script>
-        <!-- <img src="./images/C_Roigard.png"> -->
         
+    
     </div>
 
 </div>
 
     <div> </div> 
 </body>
-<footer class="footer"></footer>
+<br>
+<br>
+<footer class="footer"> Winner is: </footer>
 </html>

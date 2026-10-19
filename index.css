@@ -72,9 +72,16 @@ img {
 
 .main {
     text-align: center;
-    background: cornflowerblue;
+    background: rgb(191, 237, 100);
     border-radius: 18px;
 }
+
+.main2 {
+    border-radius: 18px;
+    text-align: center;
+    background: cornflowerblue;
+    border-radius: 18px;
+} 
 .dropdown {
     position: center;
 }
@@ -89,14 +96,13 @@ img {
     position: relative;
 }
 
-.dropdown-content {
+.stat-btns {
     display: none;
-    position: absolute;
-    background-color: aliceblue;
+    position: relative;
+    background-color: rgb(15, 112, 197);
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    position: relative;
+    font-size: 10px
 }
 
 .show {
@@ -115,19 +121,25 @@ img {
 
 .footer {
     background: lightgreen;
-    border-radius: 18px;
+    border-radius: 28px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    font-size: 20px;
 }
 
 .aside1 {
     background: rgb(0, 0, 0);
     object-fit: cover;
     border-radius: 18px;
+    color:aliceblue
 }
 
 .aside2 {
     background: rgb(0, 0, 0);
     object-fit: cover;
     border-radius: 18px;
+    color:aliceblue
 }
 
 @media all and (min-width: 768px) {

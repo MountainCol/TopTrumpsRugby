@@ -8,10 +8,16 @@
 <link rel="stylesheet" href="index.css">
 
 </head>
-<script src="app.js"></script>
+<script src="shuffleFile.js"></script>
 <body>
 <div class="flex-container" >
     <header class="header">Col's Top Trumps </header> 
+    <box class="main2">
+        <p > Experience the excitement of the Top Trumps Card Game. Dive into a world of strategy, skill, and fun as you 
+        explore the official game page. Learn the rules, discover unique card decks, 
+        and challenge friends or opponents online. Are you ready to become the ultimate Top Trumps champion? </p>
+    </box>
+
     <aside class="aside aside1"> Player 1 
         <p>Click the random button to 
             choose a random Top Trumps card</p>
@@ -20,18 +26,22 @@
     </aside>
 
     <article class="main">
-        <p > Experience the excitement of the Top Trumps Card Game. Dive into a world of strategy, skill, and fun as you 
-        explore the official game page. Learn the rules, discover unique card decks, 
-        and challenge friends or opponents online. Are you ready to become the ultimate Top Trumps champion?</p>
         <br>
-        <div class="dropdown">
-            <button onClick="myFunction()" class="dropbtn" position="center" >Category</button>
-            <select id="myDropdown" class="dropdown-content">
-                <option value="Year Born"> Year Born </option>
-                <option value="International Caps"> International Caps</option>
-                <option value="International tries"> International Tries</option>
-                </select>
-        </div>
+        <div style="background-color:#a58d8f" class="card" >
+        <h2 class="h2">How to play</h2>
+        <p> Click on either "Click Me" buttons to choose a random player.</p>
+            <div id='button-container'>
+            
+                <div id='stat-btns' class="stats-btn">
+                        <button id="year_born-btn">Year Born</button> 
+                        <br>
+                        <button id="caps-btn">International Caps</button>
+                        <br>
+                        <button id="int-tries-btn">International Tries</button>
+                        <!-- <button id="price-btn">Price</button> -->
+                    </div>
+                </div>
+            </div>
         
     <br>
     </article>
