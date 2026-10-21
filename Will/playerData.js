@@ -11,7 +11,7 @@ const players = [
     },
     {
     "name": "Tyrel Lomax",
-    "year_born": 1996,
+"year_born": 1996,
     "caps": 55,
     "international_tries": 0,
     "height_m": null,

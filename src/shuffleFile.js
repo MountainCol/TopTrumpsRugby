@@ -21,7 +21,7 @@ async function loadData() {
         })
     });
 }
-
+    
 function shuffle(players) {
     const deckLength  = players.length;
     let p1CardCount = 0;
