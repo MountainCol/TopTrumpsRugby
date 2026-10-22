@@ -8,7 +8,7 @@ const yearBorn = document.getElementById("yearBorn")
 const internationalCaps = document.getElementById("internationalCaps")
 const playerOneCount = document.getElementById("player-one-count")
 const playerTwoCount = document.getElementById("player-two-count")
-
+// const winnerMessage = document.getElementById("winner-msg")
 
 
 // Create the decks ( shallow copy so we dont mutate the data )
@@ -48,29 +48,20 @@ while (deck.length > 0) {
     }
 }
 
-// Show the next card for each player
-// const showNextCards = () => {
-
-//     if (playerOne.length === 0 || playerTwo.length === 0) {
-//         console.log("No more cards!")
-//         return
+// const winnerMessageFunction = () => {
+//     if(playerOne.length === 0 || playerTwo.length === 0) {
+//          alert("You have won the game!")
 //     }
-    
-//     const playerOneCard = playerOne.shift()
-//     const playerTwoCard = playerTwo.shift()
-
-//     createCard(playerOneCard, player1CardDisplayArea)
-//     createCard(playerTwoCard, player2CardDisplayArea)
-
-//     console.log(playerOne, playerTwo)
 // }
+
+// Show the next card for each player
 
 const showCards = () => {
     
     if (playerOne.length === 0 || playerTwo.length === 0) {
         counters()
         console.log("No more cards!")
-        return
+        return 
     }
 
     createCard(playerOne[0], player1CardDisplayArea)
@@ -132,6 +123,11 @@ const yearBornFunction = () => {
 
 showCards()
 
+const counters = () => {
+    playerOneCount.textContent = playerOne.length
+    playerTwoCount.textContent = playerTwo.length
+}
+
 // Move to the next cards when the button is clicked
 internationalTries.addEventListener("click", intTriesFunction)
 internationalCaps.addEventListener("click", intCapsFunction)
@@ -140,12 +136,5 @@ yearBorn.addEventListener("click", yearBornFunction)
 
 console.log("Player One Deck: ", playerOne)
 console.log("Player Two Deck: ", playerTwo)
-
-
-const counters = () => {
-    playerOneCount.textContent = playerOne.length
-    playerTwoCount.textContent = playerTwo.length
-}
-
 
 counters()
