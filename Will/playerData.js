@@ -11,7 +11,7 @@ const players = [
     },
     {
     "name": "Tyrel Lomax",
-"year_born": 1996,
+    "year_born": 1996,
     "caps": 55,
     "international_tries": 0,
     "height_m": null,
@@ -79,16 +79,16 @@ const players = [
     "metres_made": null,
     "img": "./images/C_Roigard.png"
     },
-    {
-    "name": "Ruben Love",
-    "year_born": 2001,
-    "caps": 11,
-    "international_tries": 3,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/R_Love.png"
-    },
+    // {
+    // "name": "Ruben Love",
+    // "year_born": 2001,
+    // "caps": 11,
+    // "international_tries": 3,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/R_Love.png"
+    // },
     {
     "name": "Jordie Barrett",
     "year_born": 1997,
@@ -129,16 +129,16 @@ const players = [
     "metres_made": null,
     "img": "./images/T_Vaa'i.png"
     },
-    {
-    "name": "Billy Proctor",
-    "year_born": 1999,
-    "caps": 13,
-    "international_tries": 3,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/B_Proctor.png"
-    },
+    // {
+    // "name": "Billy Proctor",
+    // "year_born": 1999,
+    // "caps": 13,
+    // "international_tries": 3,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/B_Proctor.png"
+    // },
     {
     "name": "Wallace Sititi",
     "year_born": 2002,
@@ -159,16 +159,16 @@ const players = [
     "metres_made": null,
     "img": "./images/X_Numia.png"
     },
-    {
-    "name": "Asafo Aumua",
-    "year_born": 1997,
-    "caps": 27,
-    "international_tries": 3,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/A_Aumua.png"
-    },
+    // {
+    // "name": "Asafo Aumua",
+    // "year_born": 1997,
+    // "caps": 27,
+    // "international_tries": 3,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/A_Aumua.png"
+    // },
     {
     "name": "Fletcher Newell",
     "year_born": 2000,
@@ -180,17 +180,17 @@ const players = [
     "img": "./images/F_Newell.png"
 
     },
-    {
-    "name": "Sam Darry",
-    "year_born": 2000,
-    "caps": 12,
-    "international_tries": 2,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/S_Darry.png"
+    // {
+    // "name": "Sam Darry",
+    // "year_born": 2000,
+    // "caps": 12,
+    // "international_tries": 2,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/S_Darry.png"
 
-    },
+    // },
     {
     "name": "Peter Lakai",
     "year_born": 2003,
@@ -202,17 +202,17 @@ const players = [
     "img": "./images/P_Lakai.png"
 
     },
-    {
-    "name": "Caleb Clarke",
-    "year_born": 1999,
-    "caps": 35,
-    "international_tries": 16,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/C_Clarke.png"
+    // {
+    // "name": "Caleb Clarke",
+    // "year_born": 1999,
+    // "caps": 35,
+    // "international_tries": 16,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/C_Clarke.png"
 
-    },
+    // },
     {
     "name": "Quinn Tupaea",
     "year_born": 1999,
@@ -246,17 +246,17 @@ const players = [
     "img": "./images/A_Lienert-Brown.png"
 
     },
-    {
-    "name": "Anton Segner",
-    "year_born": 2001,
-    "caps": 3,
-    "international_tries": 0,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/A_Segner.png"
+    // {
+    // "name": "Anton Segner",
+    // "year_born": 2001,
+    // "caps": 3,
+    // "international_tries": 0,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/A_Segner.png"
 
-    },
+    // },
     {
     "name": "Samisoni Taukei'aho",
     "year_born": 1997,
@@ -268,28 +268,28 @@ const players = [
     "img": "./images/S_Taukei'aho.png"
 
     },
-    {
-    "name": "Leroy Carter",
-    "year_born": 1999,
-    "caps": 11,
-    "international_tries": 5,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/L_Carter.png"
+    // {
+    // "name": "Leroy Carter",
+    // "year_born": 1999,
+    // "caps": 11,
+    // "international_tries": 5,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/L_Carter.png"
 
-    },
-    {
-    "name": "Patrick Tuipulotu",
-    "year_born": 1993,
-    "caps": 60,
-    "international_tries": 8,
-    "height_m": null,
-    "tackle_completion_pct": null,
-    "metres_made": null,
-    "img": "./images/P_Tuipulotu.png"
+    // },
+    // {
+    // "name": "Patrick Tuipulotu",
+    // "year_born": 1993,
+    // "caps": 60,
+    // "international_tries": 8,
+    // "height_m": null,
+    // "tackle_completion_pct": null,
+    // "metres_made": null,
+    // "img": "./images/P_Tuipulotu.png"
 
-    },
+    // },
     {
     "name": "Fehi Fineanganofo",
     "year_born": 2002,
