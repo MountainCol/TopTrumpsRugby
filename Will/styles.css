@@ -3,21 +3,26 @@ body {
     font-family: Arial, sans-serif;
     color: white;
     background-color: black;
-
+    background-image: url("./images/all-blacks-header.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+    background-size:cover;
 }
 
 .game-area {
     display: flex;
     justify-content: center;
     gap: 40px;
+    background-color: black;
+    opacity: 90%;
+
 }
 
 .player-area {
     width: 250px;
     border: 0.5px;
-    border-style: solid;
-    border-color: black;
-}
+    }
 
 .player img {
     width: 100%;
@@ -29,14 +34,26 @@ button {
     cursor: pointer;
 }
 
+.button-area{
+    border: 0.5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px; 
+    justify-content:space-around;
+    padding: 20px;
+    background-color: black;
+    align-items:center;
+    display: fixed;
+    }
 
-.game-area {
-    display: flex;
+/* .game-area {
+    display: fixed;
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
     gap: 40px;
-}
+    box-sizing:border-box;
+} */
 
 .player-area {
     width: 250px;
