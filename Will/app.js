@@ -59,7 +59,6 @@ while (deck.length > 0) {
 const showCards = () => {
     
     if (playerOne.length === 0 || playerTwo.length === 0) {
-        counters()
         console.log("No more cards!")
         return 
     }
@@ -75,12 +74,14 @@ const moveCard = (winner) => {
         console.log(playerOne)
         console.log(playerTwo)
         counters()
+        showCards()
     } else {
         console.log('Player 2 wins, moving card to deck')
         playerTwo.push(playerOne.shift())
         console.log(playerOne)
         console.log(playerTwo)
         counters()
+        showCards()
     }
 }
 
